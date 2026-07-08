@@ -90,3 +90,28 @@ hospital/
     ├── js/main.js
     └── images/            (ডাক্তারের ছবি এখানে)
 ```
+## Screenshots
+
+### Home Page
+![Home Page](Screenshot 2026-07-08 220002.png)
+
+### Doctor List Page
+![Doctor List](Screenshot 2026-07-08 220054.png)
+
+### Doctor Details Page
+![Doctor Details](Screenshot 2026-07-08 220106.png)
+
+### Appointment Page
+![Appointment](Screenshot 2026-07-08 220117.png)
+
+### Services Page
+![Services](Screenshot 2026-07-08 220128.png)
+
+### Contact Page
+![Contact](Screenshot 2026-07-08 220142.png)
+
+### Login Page
+![Login](Screenshot 2026-07-08 220153.png)
+
+### Admin Dashboard
+![Admin Dashboard](Screenshot 2026-07-08 220207.png)
