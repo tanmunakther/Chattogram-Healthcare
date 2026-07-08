@@ -174,36 +174,28 @@ hospital/
 # Screenshots
 
 ## Home Page
-
-![Home Page](Screenshot 2026-07-08 220002.png)
+![Home Page](home-page.png)
 
 ## Doctor List Page
-
-![Doctor List](Screenshot 2026-07-08 220054.png)
+![Doctor List Page](doctor-list-page.png)
 
 ## Doctor Details Page
-
-![Doctor Details](Screenshot 2026-07-08 220106.png)
+![Doctor Details Page](doctor-details-page.png)
 
 ## Appointment Page
-
-![Appointment](Screenshot 2026-07-08 220117.png)
+![Appointment Page](appointment-page.png)
 
 ## Services Page
-
-![Services](Screenshot 2026-07-08 220128.png)
+![Services Page](services-page.png)
 
 ## Contact Page
-
-![Contact](Screenshot 2026-07-08 220142.png)
+![Contact Page](contact-page.png)
 
 ## Login Page
-
-![Login](Screenshot 2026-07-08 220153.png)
+![Login Page](login-page.png)
 
 ## Admin Dashboard
-
-![Admin Dashboard](Screenshot 2026-07-08 220207.png)
+![Admin Dashboard](admin-dashboard.png)
 
 ---
 
