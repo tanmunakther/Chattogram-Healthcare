@@ -176,20 +176,20 @@ hospital/
 ## Home Page
 ![Home Page](home-page.png)
 
-## Doctor List Page
-![Doctor List Page](doctor-list-page.png)
-
-## Doctor Details Page
-![Doctor Details Page](doctor-details-page.png)
-
-## Appointment Page
-![Appointment Page](appointment-page.png)
-
 ## Services Page
 ![Services Page](services-page.png)
 
+## Departments Page
+![Departments Page](departments-page.png)
+
+## Doctors Page
+![Doctors Page](doctors-page.png)
+
 ## Contact Page
 ![Contact Page](contact-page.png)
+
+## Book Appointment Page
+![Appointment Page](appointment-page.png)
 
 ## Login Page
 ![Login Page](login-page.png)
