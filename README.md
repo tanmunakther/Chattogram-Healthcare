@@ -1,4 +1,4 @@
-# MediCare Hospital - Dynamic Website
+# Chattogram Healthcare - Dynamic Healthcare Management System
 ## PHP + MySQL + XAMPP
 
 ---
