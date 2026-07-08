@@ -1,7 +1,29 @@
 # Chattogram Healthcare - Dynamic Healthcare Management System
 
 ## PHP + MySQL + Bootstrap + XAMPP
+## Project Overview
 
+Chattogram Healthcare is a full-stack dynamic healthcare management system developed to manage doctors, appointments, healthcare services, and users efficiently.
+
+## Technologies Used
+
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- PHP
+- MySQL
+- XAMPP
+
+## Key Features
+
+- User Registration & Login
+- Doctor Management System
+- Appointment Booking System
+- Admin Dashboard
+- Manage Doctors, Services & Departments
+- Contact Message Management
+- Responsive Design
 ---
 
 ## ইনস্টলেশন গাইড (ধাপে ধাপে)
